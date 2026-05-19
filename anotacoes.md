@@ -35,3 +35,25 @@ Este arquivo é destinado para anotações do curso Java Básico.
 
 # Polimorfismo
 - Habilidade de variáveis terem "mais de um tipo"
+
+
+# O que são variáveis
+- Área de memória associada a um nome, que pode armazenas valores de um determinado tipo.
+
+# Como declarar uma variável em java
+- <tipo> <nome da viariável>;
+- <tipo> <nome da viariável> =  <valor>;
+
+# Convenção de nomenclatura
+- Sempre verificar as palavras reservadas - pois não podem ser utilizadas em nome de variável.
+- a-z A-z _ & (primeira letra)
+- a-z A-z _ & 0-9 (da segunda letra em diante)
+- camelCase - o nome da variável é recomendado começar com minúscula.
+- sempre dar nome a variáveis ao que realmente está se referindo 
+
+# Tipos primitivos
+- inteiros (int)
+- pontos flutuantes (float, double)
+- caracteres (char)
+- boolean
+
