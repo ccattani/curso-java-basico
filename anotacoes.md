@@ -58,3 +58,7 @@ Este arquivo é destinado para anotações do curso Java Básico.
 - boolean
 - literais
 
+
+# Lendo dados do teclado usando a classe Scanner
+- Classe Scanner
+    - Scanner scan = new Scanner(System.in);
