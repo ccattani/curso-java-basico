@@ -53,7 +53,8 @@ Este arquivo é destinado para anotações do curso Java Básico.
 
 # Tipos primitivos
 - inteiros (int)
-- pontos flutuantes (float, double)
-- caracteres (char)
+- pontos flutuantes (float, double) - double é o mais utilizado
+- caracteres (char) - char bem dificil de utilizar
 - boolean
+- literais
 
