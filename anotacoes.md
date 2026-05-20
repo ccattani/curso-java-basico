@@ -62,3 +62,15 @@ Este arquivo é destinado para anotações do curso Java Básico.
 # Lendo dados do teclado usando a classe Scanner
 - Classe Scanner
     - Scanner scan = new Scanner(System.in);
+
+# Operadores
+- São símbolos que solicitam ao compilador realizar alguma operação.
+
+# Operadores Aritméticos
+- +, -, /, %, ++, --
+
+# Operadores Lógicos
+-  &, |, &&, ||, !, ^
+
+# Operdores Relacionais - Utilizados para fazer comparação
+- ==, !=, >, <, >=, <=
