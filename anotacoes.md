@@ -36,7 +36,6 @@ Este arquivo é destinado para anotações do curso Java Básico.
 # Polimorfismo
 - Habilidade de variáveis terem "mais de um tipo"
 
-
 # O que são variáveis
 - Área de memória associada a um nome, que pode armazenas valores de um determinado tipo.
 
@@ -58,7 +57,6 @@ Este arquivo é destinado para anotações do curso Java Básico.
 - boolean
 - literais
 
-
 # Lendo dados do teclado usando a classe Scanner
 - Classe Scanner
     - Scanner scan = new Scanner(System.in);
@@ -74,3 +72,23 @@ Este arquivo é destinado para anotações do curso Java Básico.
 
 # Operdores Relacionais - Utilizados para fazer comparação
 - ==, !=, >, <, >=, <=
+
+# Lista de exercícios na pasta "labs - aula13"
+- 18 exercícios
+
+# Controle de decisão
+# Comando IF
+- Comandos dentro de um bloco IF somente são executadas se a condição for verdadeira.
+- Se a condição for falsa, os comandas não são executados.
+
+# Comando IF - ELSE
+- Comandos dentro de um bloco ELSE somente são executados se a condição IF for falsa.
+
+# Múltiplos IF - ELSE
+- É possível ter vários if-else aninhados! 
+
+# Switch - Case
+- Funciona como multiplos If-Else (Alternativa de if-else aninhados)
+- SWITCH (Seria o if);
+- CASE é se fosse comparando com o que tem dentro da expressão;
+- BREAK encerra o switch.
