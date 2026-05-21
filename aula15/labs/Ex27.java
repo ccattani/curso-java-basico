@@ -21,5 +21,11 @@ public class Ex27 {
         
         double valorTotal = valorMorango + valorMaca;
         System.out.println("Valor total a ser pago: R$ " + String.format("%.2f", valorTotal));
+
+        if (valorTotal > 25 || (kgMorango + kgMaca) > 8) {
+            double desconto = valorTotal * 0.10;
+            double valorComDesconto = valorTotal - desconto;
+            System.out.println("Valor com desconto de 10%: R$ " + String.format("%.2f", valorComDesconto));
+        }
     }    
 }
