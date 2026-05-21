@@ -90,5 +90,5 @@ Este arquivo é destinado para anotações do curso Java Básico.
 # Switch - Case
 - Funciona como multiplos If-Else (Alternativa de if-else aninhados)
 - SWITCH (Seria o if);
-- CASE é se fosse comparando com o que tem dentro da expressão;
+- CASE é como se fosse comparando com o que tem dentro da expressão;
 - BREAK encerra o switch.
