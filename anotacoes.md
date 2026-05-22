@@ -92,3 +92,14 @@ Este arquivo é destinado para anotações do curso Java Básico.
 - SWITCH (Seria o if);
 - CASE é como se fosse comparando com o que tem dentro da expressão;
 - BREAK encerra o switch.
+
+# Controle while
+- Esse comando avalia uma expressão e caso verdadeira executa o bloco dentro do comando while.
+
+# Controle do-while
+- Esse comando executa o bloco dentro do comando e depois avalia a expressão. O bloco deixa de ser executado após a expressão ficar falsa.
+
+# Comando For
+- Executa um bloco de código que está dentro do comando for enquanto uma expressão for verdadeira.
+- É muito utilizado na programação.
+- for (inicialização; condição; atualização){ // bloco de código }
