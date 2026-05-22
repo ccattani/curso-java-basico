@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 4. Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
 public class Ex4 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);

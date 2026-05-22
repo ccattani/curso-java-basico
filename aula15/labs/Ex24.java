@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 24. Faça um Programa que peça dois números e imprima a operação de adição, subtração, multiplicação e divisão dos mesmos.
 public class Ex24 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

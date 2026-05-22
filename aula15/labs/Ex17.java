@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
 public class Ex17 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,7 @@
 import java.util.Scanner;
+
+// 3. Faça um Programa que verifique se uma letra digitada é &quot;F&quot; ou &quot;M&quot;.
+// Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
 public class Ex3 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
